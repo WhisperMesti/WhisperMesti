@@ -1,4 +1,8 @@
 ## Hi there 👋
+
+<img src="https://github.com/WhisperMesti/WhisperMesti/blob/main/Banner.png" alt="Banner">
+
+
 <!--
 **WhisperMesti/WhisperMesti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
