@@ -34,7 +34,7 @@
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=unreal,unity,blender" />
+  <img src="https://skillicons.dev/icons?i=unreal,unity,gamemakerstudio,blender" />
   <img src="https://skillicons.dev/icons?i=java,cpp,haskell,py,pycharm" />
   <img src="https://skillicons.dev/icons?i=discord, git, notion" />
 </p>
