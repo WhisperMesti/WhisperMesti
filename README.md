@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello (My) World 👋
 
 <img src="https://github.com/WhisperMesti/WhisperMesti/blob/main/Banner" alt="Banner">
 
