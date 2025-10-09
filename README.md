@@ -13,6 +13,8 @@
 - 🔭 I’m looking for **internship/entry-level opportunities**
 - 💬 Ask me about **anything [here](https://github.com/WhisperMesti/WhisperMesti/issues)**
 
+**⚡️[LINK TO MY PORTFOLIO](https://bartoszbielawskiportfolio.my.canva.site/my-portfolio-bartosz-bielawski)⚡️**
+
 <br>
 
 <div align="center">
@@ -38,5 +40,17 @@
   <img src="https://skillicons.dev/icons?i=java,cpp,haskell,py,pycharm" />
   <img src="https://skillicons.dev/icons?i=discord, git, notion" />
 </p>
+
+<hr>
+
+## ⚡️ Stats
+
+<br>
+
+<div align=center>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=whispermesti&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="WhisperMesti's GitHub Stats" />
+  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=whispermesti&theme=transparent&count_private=true&border_radius=10&locale=en" alt="WhisperMesti's" />
+  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=whispermesti&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="WhisperMesti's Most Used Languages" />
+</div>
 
 <hr>
