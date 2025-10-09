@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<img src="https://github.com/WhisperMesti/WhisperMesti/blob/main/Banner.png" alt="Banner">
+<img src="https://github.com/WhisperMesti/WhisperMesti/blob/main/Banner" alt="Banner">
 
 
 <!--
